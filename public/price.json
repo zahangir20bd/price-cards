@@ -1,0 +1,25 @@
+[  { 
+    "id": 1,
+    "name": "Monthly Membership",
+    "price": 50.00,
+    "features": ["Gym access", "Locker room", "1 fitness class/week"]
+  },
+  {
+    "id": 2,
+    "name": "Personal Training Session",
+    "price": 75.00,
+    "features": ["Gym access", "Locker room", "Unlimited classes", "1 personal training session"]
+  },
+  {
+    "id": 3,
+    "name": "Group Fitness Class",
+    "price": 90.00,
+    "features": ["Gym access", "Locker room", "Unlimited classes", "1 personal training session", "Discounted rates for employees"]
+  },
+  {
+    "id": 4,
+    "name": "Nutrition Consultation",
+    "price": 100.00,
+    "features": ["Gym access", "Locker room", "Unlimited classes", "1 personal training session", "Discounted rates for employees"]
+  }
+]
